@@ -15,13 +15,7 @@ In my free time i like:
 
 *CSS;
 
-* and some C++;
+*and some C++;
 
-
-**My favorite games are war thunder and minecraft.**
-
-[click to download minecraft](https://warthunder.com/en)
-
-[click to download war thunder](https://tlauncher.org/en/)
 
 ![this is img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTft8l7sDBSXAyDC4_LZ2stcivcVSrDORgywXLtf7yNPLqXhAPzFy0loBRAZqLhWRRqI_o&usqp=CAU)
