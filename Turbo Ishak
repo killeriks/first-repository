@@ -1,1 +1,15 @@
-Hello World!
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Lev",
+            "status": "pro"
+        },
+        
+        {
+            "id2": 2,
+            "name2": "Vadim",
+            "status2": "pro"
+        }
+    ]
+}
